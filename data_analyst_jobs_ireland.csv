@@ -1,4 +1,4 @@
-Title,Company,Location,Via,Description
+Title,Company,Location,Via,Description,Description_Length
 Sr Data Analyst,Fanatics,"Dublin, Ireland",LinkedIn,"Responsibilities
 
 JOB DESCRIPTION
@@ -31,7 +31,7 @@ Fanatics is building a leading global digital sports platform. We ignite the pas
 
 About The Team
 
-Launched in 2021, Fanatics Betting and Gaming is the online and retail sports betting subsidiary of Fanatics Holdings Inc., a global digital sports platform. The Fanatics Sportsbook is available to nearly 93% of the addressable online sports bettor market in the U.S. in the following states: Arizona, Colorado, Connecticut, Illinois, Indiana, Iowa, Kansas, Kentucky, Maryland, Massachusetts, Michigan, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Tennessee, Vermont, Virginia, West Virginia and Wyoming. Fanatics Casino is currently available online in Michigan, New Jersey, Pennsylvania and West Virginia. Fanatics Betting and Gaming operates nineteen retail locations including retail sportsbooks outside of Progressive Field and Nationwide Arena and the only sportsbook inside an NFL stadium at Commanders Field. Fanatics Betting and Gaming is headquartered in New York with offices in Denver and Dublin, Ireland."
+Launched in 2021, Fanatics Betting and Gaming is the online and retail sports betting subsidiary of Fanatics Holdings Inc., a global digital sports platform. The Fanatics Sportsbook is available to nearly 93% of the addressable online sports bettor market in the U.S. in the following states: Arizona, Colorado, Connecticut, Illinois, Indiana, Iowa, Kansas, Kentucky, Maryland, Massachusetts, Michigan, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Tennessee, Vermont, Virginia, West Virginia and Wyoming. Fanatics Casino is currently available online in Michigan, New Jersey, Pennsylvania and West Virginia. Fanatics Betting and Gaming operates nineteen retail locations including retail sportsbooks outside of Progressive Field and Nationwide Arena and the only sportsbook inside an NFL stadium at Commanders Field. Fanatics Betting and Gaming is headquartered in New York with offices in Denver and Dublin, Ireland.",4172
 "Senior Data Analyst, Data Analytics",Cardinal Health,"Dublin, Ireland",Cardinal Health,"What Data Analytics brings to Cardinal Health
 
 The Data and Analytics Function oversees the analytics lifecycle in order to identify, analyze and present relevant insights that drive business decisions and anticipate opportunities to achieve a competitive advantage. This function manages analytic data platforms, the access, design and implementation of reporting/business intelligence solutions, and the application of advanced quantitative modeling. Data Analytics applies business process knowledge and data analytics to develop, recommend and communicate timely, accurate, relevant, and actionable insights to support business decisions and objectives.
@@ -68,7 +68,7 @@ Qualifications
 
 Candidates who are back-to-work, people with disabilities, without a college degree, and Veterans are encouraged to apply.
 
-Cardinal Health supports an inclusive workplace that values diversity of thought, experience and background. We celebrate the power of our differences to create better solutions for our customers by ensuring employees can be their authentic selves each day. Cardinal Health is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, ancestry, age, physical or mental disability, sex, sexual orientation, gender identity/expression, pregnancy, veteran status, marital status, creed, status with regard to public assistance, genetic status or any other status protected by federal, state or local law."
+Cardinal Health supports an inclusive workplace that values diversity of thought, experience and background. We celebrate the power of our differences to create better solutions for our customers by ensuring employees can be their authentic selves each day. Cardinal Health is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, ancestry, age, physical or mental disability, sex, sexual orientation, gender identity/expression, pregnancy, veteran status, marital status, creed, status with regard to public assistance, genetic status or any other status protected by federal, state or local law.",4125
 Lead Data Analyst,Levy Search,"Dublin, Ireland",LinkedIn,"A great client of mine is looking for a Lead Data Analyst to join them on a contract basis. They are looking for someone with the below experience.
 
 Responsibilities:
@@ -103,7 +103,7 @@ Preferred Skills:
 
 o Stakeholder management, Design thinking, clear communication, business process modeling, conduct requirement workshops
 
-o Documenting business case, manage projects from inception through design to delivery."
+o Documenting business case, manage projects from inception through design to delivery.",1004
 Data Consultant (Data Scientist/Data Analyst/Data Engineer – Dublin),auticon Ireland - Consulting Team Talent Pool,"Dublin, Ireland",Auticon,"• Are you autistic and interested in a career in data science, data engineering or data analytics?
 • Do you have an analytical mindset and a keen eye for detail, with skills in pattern recognition and error detection?
 • Would you like to work in an environment where neurodiversity is celebrated and autistic staff are supported to thrive?
@@ -175,7 +175,7 @@ If you’re interested in joining the auticon team, please submit your applicati
 
 Please email careers@auticon.co.uk if you have any questions about our opportunities.
 
-There is no closing date as we process applications to the Talent Pool on a rolling basis. We may occasionally pause applications to the Talent Pool so that we can keep the number of people waiting after Stage 3 in line with expected client demand."
+There is no closing date as we process applications to the Talent Pool on a rolling basis. We may occasionally pause applications to the Talent Pool so that we can keep the number of people waiting after Stage 3 in line with expected client demand.",6873
 Experienced Data Analyst - Alteryx | Hybrid | Contract,Morgan McKinley,Ireland,Morgan McKinley,"Data Analyst - Alteryx | Hybrid | Contract
 
 We're looking for an experienced Data Analyst (5+ years) with strong Alteryx experience to support a growing analytics function. This hybrid, LTD contract role with 3 days onsite per week in Cork.
@@ -191,7 +191,7 @@ Requirements:
 • Strong SQL skills and familiarity with BI tools like Power BI or Tableau.
 • Background in data analytics, statistics, or a related field.
 • Excellent communication and problem-solving skills.
-• Experience in Agile environments and knowledge of AWS are a plus."
+• Experience in Agile environments and knowledge of AWS are a plus.",929
 Data Analyst | Remote,Sedgwick Ireland,Anywhere,Jobgether,"This a Full Remote job, the offer is available from: Texas (USA)
 
 Taking care of people is at the heart of everything we do, and we start by taking care of you, our valued colleague. A career at Sedgwick means experiencing our culture of caring. It means having flexibility and time for all the things that are important to you. It’s an opportunity to do something meaningful, each and every day. It’s having support for your mental, physical, financial and professional needs. It means sharpening your skills and growing your career. And it means working in an environment that celebrates diversity and is fair and inclusive.
@@ -260,7 +260,7 @@ Sedgwick is an Equal Opportunity Employer and a Drug-Free Workplace.
 
 If you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, consider applying for it anyway! Sedgwick is building a diverse, equitable, and inclusive workplace and recognizes that each person possesses a unique combination of skills, knowledge, and experience. You may be just the right candidate for this or other roles.
 
-This offer from ""Sedgwick Ireland"" has been enriched by Jobgether.com and got a 72% flex score."
+This offer from ""Sedgwick Ireland"" has been enriched by Jobgether.com and got a 72% flex score.",4950
 Data Analyst,Romero Games,"Galway, Ireland",Indeed,"Join Romero Games as we develop John Romero’s next First Person Shooter in partnership with a major publisher! This is an unprecedented opportunity to join a thriving independent development studio and work on a high-profile title that will be played by millions of gamers worldwide.
 
 Romero Games Ltd is looking for a Data Analyst to join our growing team on a full-time basis. You will be in charge of our data collection and analysis strategy, determining the data that needs to be collected from players and analyzing the results in order to inform our development efforts. As part of a thriving independent development studio you will have a significant impact, and contribute on multiple levels to the games we make.
@@ -308,7 +308,7 @@ Romero Games Benefits
 
 Send Your CV to jobs@romerogames.com
 
-We intend to use your data for recruitment purposes only and it will be kept only until the role is filled. When that period is over, we will either delete your data or inform you that we will keep it in our database for future roles. You can find our privacy policy on our website at RomeroGames.com."
+We intend to use your data for recruitment purposes only and it will be kept only until the role is filled. When that period is over, we will either delete your data or inform you that we will keep it in our database for future roles. You can find our privacy policy on our website at RomeroGames.com.",4952
 Senior Data Analyst,Mace,"Dublin, Ireland",Mace Group Careers,"Position status: This opportunity is for a secured role that is due to commence in December subject to approval. If you would like to be considered as we progress with this position, please click to apply.
 
 At Mace, our purpose is to redefine the boundaries of ambition. We believe in creating places that are responsible, bringing transformative impact to our people, communities and societies across the globe. To learn more about our purpose, culture, and priorities, visit our strategy site.
@@ -359,7 +359,7 @@ Mace is an inclusive employer and welcomes interest from a diverse range of cand
 
 We are also open to discussing part-time, flexible, and hybrid working options if suitable within the role.
 
-Please remember the Employee Referral Scheme and if there are any talented people you can recommend, just click the button and use the ‘Refer a friend’ feature found within the relevant job."
+Please remember the Employee Referral Scheme and if there are any talented people you can recommend, just click the button and use the ‘Refer a friend’ feature found within the relevant job.",3929
 "#10487 - Data Analyst, 45k - 55k",One Recruitment,"Dublin, Ireland",ZipRecruiter Ireland,"We are currently looking to recruit Data Analysts for our well-established client. The analysts will exclusively work on a specific project that entails integrating some external entities/organisations into one single centralized organisation. Their role is on assisting with the smooth transfer of Data from each entity to the central unit.
 
 The ideal candidate will have practical experience in several data analyst technologies as well as experience using the latest Cloud technologies. We are looking for a self-starter who loves to continually evaluate new technologies, innovate, educate, and collaborate, all to deliver critical services that help our clients succeed.
@@ -382,7 +382,7 @@ Requirements:
 • Flexibility (you will be asked to help with different tasks in this project)
 
 Package:
-• 45k - 55k"
+• 45k - 55k",1518
 Commercial Data Analyst - €45K plus benefits,Darwin Hawkins,"Dublin, Ireland",LinkedIn,"Job Title: Commercial Data Analyst
 
 Sector: Industry - Confidential
@@ -430,4 +430,4 @@ Interested in this posi
 
 tion?To apply, please submit your CV to Aonghus Cody who is managing this assignment via the link below or to inquire further please contact Aonghus directly at aonghusjobs@Darwinhawkins.com or 01 529
 
-4200."
+4200.",2298
